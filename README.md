@@ -1,2 +1,3 @@
-# Fun-es-de-Ordena-o
+# FuncoesDeOrdenacao
+
 # Ordanation-functions InsertionSort, ShellSort e QuickSort
