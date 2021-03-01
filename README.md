@@ -6,9 +6,9 @@ C
 
 Programa criado em C com o objetivo de organizar um vetor através de algoritmos de ordenação.
 Funções de ordenação contidas:
-InsertionSort;
-ShellSort; 
-QuickSort;
+InsertionSort;  
+ShellSort;  
+QuickSort;  
 
 ## Autor
 
