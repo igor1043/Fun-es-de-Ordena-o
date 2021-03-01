@@ -1,3 +1,14 @@
+
+/*
+Programa criado em C com o objetivo de organizar um vetor através de algoritmos de ordenação. Funções de ordenação contidas: InsertionSort;
+ShellSort;
+QuickSort;
+*/
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include "recursos.h"
 
 int main()
